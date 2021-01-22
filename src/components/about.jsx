@@ -19,7 +19,7 @@ export default class About extends Component {
                       <p>
                         I am a Electrical Engineer from SRKNEC, Nagpur. I love
                         exploring new technologies and often amazed by the
-                        progress we as a human species have mad so far in the
+                        progress we as a human species have made so far in the
                         recent years
                       </p>
                     </div>
@@ -51,7 +51,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Generator Commissioning </h3>
                     <p>
-                      I have experience testing Generators, carrying out Dynamic
+                      Done testing of Generators, Dynamic
                       test of Generators, AVR Dummy Load tests.
                     </p>
                   </div>
@@ -66,8 +66,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Electrical Maintenance</h3>
                     <p>
-                      Conversant with Best practices of Maintenance with 6+
-                      years of exprerience, including manpower and spare
+                      Conversant with Best practices of Maintenance, including manpower and spares
                       management
                     </p>
                   </div>
@@ -82,9 +81,9 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Electrical Erection</h3>
                     <p>
-                      5+ Years of experience in Erection of Electrical
-                      Equipements like Power Transformers, Motors, MV & LV
-                      Switchgears
+                      Carried out Erection of Electrical
+                      Equipements like Power Transformers, MV & LV
+                      Switchgears, Busducts
                     </p>
                   </div>
                 </div>
@@ -101,8 +100,8 @@ export default class About extends Component {
                     <h3>Testing & Commissioning</h3>
                     <p>
                       Hands of experience in testing of various electrical
-                      equipements like Instrument Transformers, Power
-                      Transformers, Motors, Switchgears, Numerical relays{" "}
+                      equipements like Protection Schemes, Instrument Transformers, Power & Distribution
+                      Transformers, MV Cables, MV & LV Motors, MV & LV Switchgears, Numerical relays{" "}
                     </p>
                   </div>
                 </div>
@@ -118,7 +117,7 @@ export default class About extends Component {
                     <p>
                       Beginer level skills in Java programming language as an
                       hobby. Worked with platforms like VS Code, Arduino IDE,
-                      Android Studio, Scartch, App Inventor
+                      Android Studio, Scratch, App Inventor
                     </p>
                   </div>
                 </div>
@@ -133,8 +132,8 @@ export default class About extends Component {
                     <h3>Embedded System</h3>
                     <p>
                       {" "}
-                      Love to program microcontrollers and developement boards
-                      like arduino, raspberry pi, ESP8266 for various IoT
+                      Love to tinker with microcontrollers and developement boards
+                      like Arduino, Raspberry Pi, ESP8266, ESP32, AVR Microcontrollers for various IoT
                       projects like Home Automation
                     </p>
                   </div>

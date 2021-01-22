@@ -18,19 +18,20 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1>
+                          <h1 style = {{ "color": 'white' }}>
                             Hi! <br />
                             I'm Swapnil
                           </h1>
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://drive.google.com/file/d/1d6cidJrlgR_wRPZ4dbsmTdi16GKAN31A/view?usp=sharing"
+                              href="https://drive.google.com/file/d/154CKK0u-ytCKAwJW9hmNNfyyDK7z6cCd/view?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
+                              style = {{ "color": 'white' }}
                             >
                               View CV
-                              <i className="icon-download4" />
+                              <i className="icon-download4"/>
                             </a>
                           </p>
                         </div>
@@ -46,7 +47,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1>
+                          <h1 style = {{ "color": 'white' }}>
                             I love building
                             <br /> THINGS !!
                           </h1>
