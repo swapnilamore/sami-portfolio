@@ -29,13 +29,13 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Manager @ RattanIndia Power Ltd, Amravati{" "}
-                          <span>2014-present</span>
+                          <span>May 2014-present</span>
                         </h2>
                         <p>
                           I joined RattanIndia Power Ltd as Deputy Manager and
                           was responcible for electrical commissioning
-                          activities related to 3x270MW. We have successfully
-                          commissioned 3 units within 40 days. Then, my roles
+                          activities related to 5x270MW. We have successfully
+                          commissioned 3 units within 40 days. Then, my role
                           changed from commissioining to maintenance. Currently
                           I am looking after maintenance activities related to
                           Generator & Auxiliaries and Switchgear.
@@ -54,7 +54,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Entrepreneur @ Synergy Electrical Solutions & Services, Nagpur{" "}
-                          <span>2013-2014</span>
+                          <span>Nov 2013 - May 2014</span>
                         </h2>
                         <p>
                           Started Venture which was involved in
@@ -76,7 +76,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Manager @ Reliance Infrastructure Ltd, Butibori{" "}
-                          <span>2008-2013</span>
+                          <span>Aug 2008 - Nov 2013</span>
                         </h2>
                         <p>
                           At Reliance Infrastructure Ltd, I joined as GET.
@@ -122,7 +122,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           DET @ Larsen & Toubro Ltd, ECC Division{" "}
-                          <span>2004-2005</span>
+                          <span>Jul 2004 - Apr 2005</span>
                         </h2>
                         <p>
                           I joined L&T Ltd as Diploma Engineer Trainee. I was

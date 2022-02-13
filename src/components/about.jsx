@@ -52,7 +52,7 @@ export default class About extends Component {
                     <h3>Generator Commissioning </h3>
                     <p>
                       Done testing of Generators, Dynamic
-                      test of Generators, AVR Dummy Load tests.
+                      test of Generators, Brushless Excitation System , DAVR Commissioning (Make - BHEL)
                     </p>
                   </div>
                 </div>
@@ -82,8 +82,8 @@ export default class About extends Component {
                     <h3>Electrical Erection</h3>
                     <p>
                       Carried out Erection of Electrical
-                      Equipements like Power Transformers, MV & LV
-                      Switchgears, Busducts
+                      Equipements like Power Transformers (Make - Areva), MV & LV
+                      Switchgears (Make - Areva / L&T), Busducts (Make - BHEL / Powergear / C&S)
                     </p>
                   </div>
                 </div>
@@ -100,8 +100,8 @@ export default class About extends Component {
                     <h3>Testing & Commissioning</h3>
                     <p>
                       Hands of experience in testing of various electrical
-                      equipements like Protection Schemes, Instrument Transformers, Power & Distribution
-                      Transformers, MV Cables, MV & LV Motors, MV & LV Switchgears, Numerical relays{" "}
+                      equipements like MV & LV Switchgears, Numerical relays (Micom / SEL / Siprotec), Variable Frequency Drives (Siemens / Yaskawa), Protection Schemes, Instrument Transformers, Power & Distribution
+                      Transformers, MV Cables, MV & LV Motors, {" "}
                     </p>
                   </div>
                 </div>
