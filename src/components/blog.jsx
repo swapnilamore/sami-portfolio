@@ -64,6 +64,30 @@ export default class Blog extends Component {
 						imagesrc = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWuM-kluefMTmbbVtCtxymEe4hhWldHna4UAK6nMXd-RDQ1DzX07wfxHZ-R0-QXPByQwge6slAhclAa6zNfqB6HucvL7RDtVUM1mZw3ylBknuxy6por1hEVFC5y4R9-p_12FgGBaHXHcEceOQ-cbBlvvnBtcByOBE8Q1yro4nM-Wwe6wECcPvpPmOPUg/s1160/Drawing1.jpg" 
 					/>
 				</div>
+
+				<div className="row">
+					<BlogItem
+						date = "April 17, 2023"
+						category = "Analysis"
+						link = "https://blog.swapnilmore.page/2023/04/raspberry-pi-getting-started.html"
+						title = "Raspberry Pi - Getting Started"
+						imagesrc = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWuM-kluefMTmbbVtCtxymEe4hhWldHna4UAK6nMXd-RDQ1DzX07wfxHZ-R0-QXPByQwge6slAhclAa6zNfqB6HucvL7RDtVUM1mZw3ylBknuxy6por1hEVFC5y4R9-p_12FgGBaHXHcEceOQ-cbBlvvnBtcByOBE8Q1yro4nM-Wwe6wECcPvpPmOPUg/s1160/Drawing1.jpg" 
+					/>
+					<BlogItem
+						date = "April 12, 2023"
+						category = "Analysis"
+						link = "https://blog.swapnilmore.page/2023/04/transformer-routine-tests.html"
+						title = "Transformer Routine Tests"
+						imagesrc = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVpnUMI7gWFGbY4QWaR2t7c3q7SGoSoLKQjBY2IjSkUaXflNMB4AzGZYO8DYQnfXiXaQIF8Gzt4TjU5yRh2yphvKbFXh9gwtUoxtu1nrfvEbMsdyjrxILgIQM9iuupAVLXFCFVOP4jl7t4GDMkGE4_kq7jS7ZnkWgxHYpdi7irKCfR4oJFMAjSpLzVTQ/s500/generator-transformer-500x500.webp" 
+					/>
+					<BlogItem
+						date = "March 28, 2023"
+						category = "Analysis"
+						link = "https://blog.swapnilmore.page/2023/03/generator-rotor-earth-fault-protection.html"
+						title = "Generator Rotor Earth Fault Protection"
+						imagesrc = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHIEwPoqi8IP0OGHObp0t-7edmKsjnEZEx3kxWM79PHTf0HEnHpBKgfos5mX9aaFYtNhfEdZBvWkWfCDS6lb4h7i9oKKxl-FVJSxMnfgsTqyH6j5fy0L_zSepmNkhvuu-eb3Vp-mCncvdYbqNPIhRtB6mJ3rEyy4TmvruKstnFbwQIV5dLq_yGmQ9Hrw/s1200/CM20200325-f0204-a2ff5.jpg" 
+					/>
+				</div>
 			</div>
 			</section>
       </div>

@@ -17,11 +17,12 @@ export default class About extends Component {
                     <div className="about-desc">
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
-                      <p>
+                      <p><font size="4">
                         I am a seasoned <i>Commissioning & Maintenance Manager </i>  
                         with Over 15 Years of Expertise in Electrical Erection, Testing, Commissioning & Maintenance 
                         in the Power Industry. <br></br>
                         I love exploring new technologies and often amazed by the progress we as a human species have made so far in the recent years.
+                        </font>
                       </p>
                     </div>
                   </div>
@@ -91,8 +92,8 @@ export default class About extends Component {
 
               <AboutItem
                 title="Budgeting, Service & Material Management"
-                description="Contributing to the development and refinement of departmental budgets through meticulous analysis and collaboration with key stakeholders,<br></br>
-                Facilitating seamless operations by efficiently generating service material requisitions to ensure timely procurement and availability of necessary resources, <br></br>
+                description="Contributing to the development and refinement of departmental budgets through meticulous analysis and collaboration with key stakeholders,
+                Facilitating seamless operations by efficiently generating service material requisitions to ensure timely procurement and availability of necessary resources,
                 Managing the end-to-end process of invoice processing, including verification, approval, and reconciliation, to ensure accuracy and adherence to financial protocols"
                 color="color-1"
               />

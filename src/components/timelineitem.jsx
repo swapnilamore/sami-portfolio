@@ -16,7 +16,7 @@ const TimelineItem = ({title, time, description, color}) =>{
           <span>{time}</span>
         </h2>
         <p>
-          {description}
+          <font size="4">{description}</font>
         </p>
       </div>
     </div>

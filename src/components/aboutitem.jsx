@@ -10,7 +10,7 @@ const AboutItem = ({title, description, color}) =>{
                   <div className="desc">
                     <h3>{title}</h3>
                     <p>
-                      {description}
+                      <font size="4">{description}</font>
                     </p>
                   </div>
                 </div>
