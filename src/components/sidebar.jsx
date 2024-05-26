@@ -30,6 +30,7 @@ export default class Sidebar extends Component {
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
+                <br/>
                 <ul>
                   <li className="active">
                     <a href="#home" data-nav-section="home">
@@ -47,6 +48,11 @@ export default class Sidebar extends Component {
                     </a>
                   </li>
                   <li>
+                    <a href="#blog" data-nav-section="blog">
+                      Blog
+                    </a>
+                  </li>
+                  <li>
                     <a href="#projects" data-nav-section="projects">
                       Projects
                     </a>
@@ -56,13 +62,6 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li>
-                    <a href="https://blog.swapnilmore.page/"
-                        target="_blank"
-                        rel="noopener noreferrer">
-                      Blog
-                    </a>
-                  </li>
                 <li>
                   <a
                     href="https://www.facebook.com/swapnilamore"
@@ -74,7 +73,7 @@ export default class Sidebar extends Component {
                 </li>
                 <li>
                   <a
-                    href="https:/www.linkedin.com/in/swapnil-more-23bb1270"
+                    href="https:/www.linkedin.com/in/swapnilamore"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
