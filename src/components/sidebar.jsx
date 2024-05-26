@@ -19,7 +19,7 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div
                 className="author-img"
-                style={{ backgroundImage: "url(images/about.jpg)" }}
+                style={{ backgroundImage: "url(images/about_old.jpg)" }}
               />
               <h1 id="colorlib-logo">
                 <a href="index.html">Swapnil More</a>
@@ -51,16 +51,18 @@ export default class Sidebar extends Component {
                       Projects
                     </a>
                   </li>
-                  <li>
-                    <a href="#" data-nav-section="blog">
-                      Blog
-                    </a>
-                  </li>
                 </ul>
               </div>
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
+                <li>
+                    <a href="https://blog.swapnilmore.page/"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                      Blog
+                    </a>
+                  </li>
                 <li>
                   <a
                     href="https://www.facebook.com/swapnilamore"

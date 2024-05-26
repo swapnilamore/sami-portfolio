@@ -51,7 +51,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Generator Commissioning </h3>
                     <p>
-                      Done testing of Generators, Dynamic
+                      Testing & Commissioing of Generators, Dynamic
                       test of Generators, Brushless Excitation System , DAVR Commissioning (Make - BHEL)
                     </p>
                   </div>
@@ -67,7 +67,8 @@ export default class About extends Component {
                     <h3>Electrical Maintenance</h3>
                     <p>
                       Conversant with Best practices of Maintenance, including manpower and spares
-                      management
+                      management of Electrical system including emergency system like DC system, Battery and Chargers,
+                      UPS, Emergency DG Sets
                     </p>
                   </div>
                 </div>

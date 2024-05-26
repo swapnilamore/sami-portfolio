@@ -25,7 +25,7 @@ export default class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://drive.google.com/file/d/154CKK0u-ytCKAwJW9hmNNfyyDK7z6cCd/view?usp=sharing"
+                              href="https://drive.google.com/file/d/1zwfPjhqg7LyeSHG4Wa5phlJw9iwkZqZI/view?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
                               style = {{ "color": 'white' }}
@@ -51,16 +51,6 @@ export default class Introduction extends Component {
                             I love building
                             <br /> THINGS !!
                           </h1>
-                          {/* <p>
-                            <a
-                              className="btn btn-primary btn-learn"
-                              href="https://github.com/dbarochiya"
-                              target="_blank"
-                              rel="noopener noreferrer"
-                            >
-                              View Projects <i className="icon-briefcase3" />
-                            </a>
-                          </p> */}
                         </div>
                       </div>
                     </div>

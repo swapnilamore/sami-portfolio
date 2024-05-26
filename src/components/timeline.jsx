@@ -29,7 +29,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Manager @ RattanIndia Power Ltd, Amravati{" "}
-                          <span>May 2014-present</span>
+                          <span>May 2014 - Present</span>
                         </h2>
                         <p>
                           I joined RattanIndia Power Ltd as Deputy Manager and
@@ -38,7 +38,8 @@ export default class Timeline extends Component {
                           commissioned 3 units within 40 days. Then, my role
                           changed from commissioining to maintenance. Currently
                           I am looking after maintenance activities related to
-                          Generator & Auxiliaries and Switchgear.
+                          Generator & Auxiliaries, Excitation System, Switchgears,
+                          Emergency Electrical Systems.
                         </p>
                       </div>
                     </div>
@@ -80,8 +81,8 @@ export default class Timeline extends Component {
                         </h2>
                         <p>
                           At Reliance Infrastructure Ltd, I joined as GET.
-                          Erection and Testing of MV Switchgear was not first
-                          assignment which I completed within before stipulated
+                          Erection and Testing of MV Switchgear was my first
+                          assignment which I completed within stipulated
                           time. Then, I looked after erection and commissioning
                           of Generator, Power transformers, MV Switchgears, IPBD
                           and SPBD in all respect.
